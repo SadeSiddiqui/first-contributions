@@ -47,7 +47,8 @@
 - Hi! I'm Hameem Shah. Have a nice day.
 - Hello! Jadiel here starting from UF, Jesus is King! 11-14-24
 - Hi, Rajat here, Hoping to help some great open source projects from now on!
-- Hi! I'm [Rayene]. Have a great day.
+- Hey! I'm [Syed], whoever is reading this I wish you a great day! (https://github.com/SadeSiddiqui)  
+- Hi! I'm [Rayene]. Have a great day .
 - Hey! I'm Matthew Jinks
 - Hello everyone! I am Divyanshu. Nov 15/2024
 - Hello, I'm osama nazar and this is my first open source contribution
